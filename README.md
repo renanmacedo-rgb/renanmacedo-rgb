@@ -36,9 +36,9 @@ Paleta: azul, azul-claro e preto
 
 ## `01` — Sobre mim
 
-Olá! Sou **Renan Marlon**, estudante de **Ciência da Computação**.
+Olá! Me chamo **Renan**, sou estudante de **Ciência da Computação** na Universidade Federal Rural do Semi-Árido.
 
-Este perfil é meu espaço no GitHub. A tecnologia destacada atualmente por aqui é **Java**, e esta página reúne minhas informações e acompanha minha presença na plataforma.
+A tecnologia que mais estudo atualmente é o **Java**, mas estou ainda estou buscando a melhor área para mim.
 
 <div align="center">
 
@@ -69,40 +69,7 @@ Este perfil é meu espaço no GitHub. A tecnologia destacada atualmente por aqui
 
 ---
 
-## `03` — Projetos em destaque
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="520">
-      <br/>
-      <img
-        src="https://img.shields.io/badge/PROJECTS-Em%20constru%C3%A7%C3%A3o-0D47A1?style=for-the-badge&logo=github&logoColor=FFFFFF"
-        alt="Seção de projetos"
-      />
-      <h3>Nenhum projeto destacado por enquanto</h3>
-      <p>
-        Ainda não selecionei repositórios para apresentar nesta seção.
-        Quando houver projetos que eu queira destacar, os cards poderão ser
-        adicionados aqui com seus respectivos links.
-      </p>
-      <a href="https://github.com/renanmacedo-rgb?tab=repositories">
-        <img
-          src="https://img.shields.io/badge/Explorar%20reposit%C3%B3rios-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"
-          alt="Explorar meus repositórios"
-        />
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## `04` — GitHub Stats
+## `03` — GitHub Stats
 
 <div align="center">
 
@@ -128,7 +95,7 @@ Este perfil é meu espaço no GitHub. A tecnologia destacada atualmente por aqui
 
 ---
 
-## `05` — Contribution Streak
+## `04` — Contribution Streak
 
 <div align="center">
 
@@ -143,7 +110,7 @@ Este perfil é meu espaço no GitHub. A tecnologia destacada atualmente por aqui
 
 ---
 
-## `06` — Activity Graph
+## `05` — Activity Graph
 
 <div align="center">
 
@@ -159,7 +126,7 @@ Este perfil é meu espaço no GitHub. A tecnologia destacada atualmente por aqui
 
 ---
 
-## `07` — GitHub Trophies
+## `06` — GitHub Trophies
 
 <div align="center">
 
@@ -175,7 +142,7 @@ Este perfil é meu espaço no GitHub. A tecnologia destacada atualmente por aqui
 
 ---
 
-## `08` — Snake Contribution
+## `07` — Snake Contribution
 
 <div align="center">
 
