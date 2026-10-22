@@ -12,8 +12,6 @@ Paleta: azul, azul-claro e preto
   alt="Banner azul tecnológico de Renan Marlon"
 />
 
-<br/>
-
 <a href="https://github.com/renanmacedo-rgb">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Aprendendo+Java%2C+um+passo+de+cada+vez"
