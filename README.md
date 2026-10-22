@@ -108,56 +108,7 @@ A tecnologia que mais estudo atualmente é o **Java**, mas ainda estou buscando 
 
 ---
 
-<details>
-  <summary><strong>Como ativar a animação com GitHub Actions</strong></summary>
-
-  O README não consegue executar uma GitHub Action sozinho. Para gerar os arquivos da animação, crie o arquivo `.github/workflows/snake.yml` no repositório `renanmacedo-rgb/renanmacedo-rgb` e adicione o conteúdo abaixo.
-
-  ```yaml
-  name: Generate Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - main
-
-  permissions:
-    contents: write
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-
-      steps:
-        - name: Generate contribution snake
-          uses: Platane/snk@v3
-          with:
-            github_user_name: renanmacedo-rgb
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-
-        - name: Publish generated files
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ```
-
-  Depois, abra a aba **Actions** do repositório e execute o workflow manualmente pela opção **Run workflow**. A animação será exibida quando os arquivos forem publicados na branch `output`. Se o repositório usar outra branch principal, ajuste o nome `main` no gatilho `push`.
-
-  Referência: [Platane/snk — documentação oficial](https://github.com/Platane/snk).
-
-</details>
-
----
-
-## `09` — Conecte-se comigo
+## `05` — Conecte-se comigo
 
 <div align="center">
 
