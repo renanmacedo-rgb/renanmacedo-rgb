@@ -36,9 +36,9 @@ Paleta: azul, azul-claro e preto
 
 ## `01` — Sobre mim
 
-Olá! Me chamo **Renan**, sou estudante de **Ciência da Computação** na Universidade Federal Rural do Semi-Árido.
+Olá! Me chamo **Renan**, sou estudante de **Ciência da Computação** na **Universidade Federal Rural do Semi-Árido**.
 
-A tecnologia que mais estudo atualmente é o **Java**, mas estou ainda estou buscando a melhor área para mim.
+A tecnologia que mais estudo atualmente é o **Java**, mas ainda estou buscando a melhor área para mim.
 
 <div align="center">
 
