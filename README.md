@@ -91,8 +91,6 @@ A tecnologia que mais estudo atualmente é o **Java**, mas ainda estou buscando 
 
 </div>
 
-<sub>As estatísticas são geradas automaticamente por um serviço externo e dependem dos dados públicos disponíveis no GitHub.</sub>
-
 ---
 
 ## `04` — Contribution Streak
@@ -109,62 +107,6 @@ A tecnologia que mais estudo atualmente é o **Java**, mas ainda estou buscando 
 </div>
 
 ---
-
-## `05` — Activity Graph
-
-<div align="center">
-
-<a href="https://github.com/renanmacedo-rgb">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=renanmacedo-rgb&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true"
-    width="100%"
-    alt="Gráfico de atividade no GitHub"
-  />
-</a>
-
-</div>
-
----
-
-## `06` — GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/renanmacedo-rgb">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=renanmacedo-rgb&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4"
-    width="100%"
-    alt="Conquistas do GitHub"
-  />
-</a>
-
-</div>
-
----
-
-## `07` — Snake Contribution
-
-<div align="center">
-
-<p>A animação representa o histórico de contribuições do perfil.</p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/renanmacedo-rgb/renanmacedo-rgb/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/renanmacedo-rgb/renanmacedo-rgb/output/github-snake.svg"
-  />
-  <img
-    alt="Animação da cobra percorrendo o gráfico de contribuições"
-    src="https://raw.githubusercontent.com/renanmacedo-rgb/renanmacedo-rgb/output/github-snake.svg"
-    width="100%"
-  />
-</picture>
-
-</div>
 
 <details>
   <summary><strong>Como ativar a animação com GitHub Actions</strong></summary>
